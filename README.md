@@ -2,8 +2,8 @@
 
 // TODO
 
-[] - IOS Build Configuration
-[] - Android Build Configuration
-[] - Flow coverage
-[] - Codepush
-[] - CI/CD
+- [ ] IOS build configuration
+- [ ] Android build configuration
+- [ ] Flow coverage
+- [ ] Codepush
+- [ ] CI/CD
